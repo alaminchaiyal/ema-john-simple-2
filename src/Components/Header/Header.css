@@ -1,0 +1,17 @@
+.navbar{
+    background-color: #1C2B35;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 50px;
+    height: 80px;
+    align-items: center;
+}
+.nav-link a{
+    text-decoration: none;
+    color: #FFFFFF;
+    margin-right: 50px;
+}
+
+.nav-link a:hover{
+    color: #FFE0B3;
+}
